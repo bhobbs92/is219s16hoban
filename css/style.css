@@ -201,7 +201,7 @@ h5{
 	border-radius: 0px;
 	font-weight: 700;
 	background: transparent;
-	color: #fff;
+	color: #5D8AA8;
 	-webkit-transition: all .4s ease-in 0s;
 	-o-transition: all .4s ease-in 0s;
 	transition: all .4s ease-in 0s;
@@ -210,12 +210,12 @@ h5{
 	font-size: 18px;
 	line-height: 24px;
 	padding: 20px 19px;
-	border: 2px solid#2ecc71;
+	border: 2px solid#5D8AA8;
 	text-transform: uppercase;
 	border-radius: 0px;
 	font-weight: 700;
 	background: transparent;
-	color: #2ecc71;
+	color: #5D8AA8;
 	margin-top: 50px;
 	-webkit-transition: all .4s ease-in 0s;
 	-o-transition: all .4s ease-in 0s;
@@ -223,13 +223,13 @@ h5{
 }
 .btn-default:hover{
 	background: #fff;
-	color: #2ecc71;
+	color: #5D8AA8;
 	border-color: #fff;
 }
 .btn-default.featured:hover{
-	background: #2ecc71;
+	background: #5D8AA8;
 	color: #fff;
-	border-color:#2ecc71;
+	border-color:#5D8AA8;
 }
 
 /*Global styles
@@ -314,7 +314,7 @@ h2.title{
 	line-height: 30px;
 }
 .navbar-default .navbar-nav > li > a:hover,.navbar-default .navbar-nav > li > a:focus{
-	color: #2ecc71;
+	color: #5D8AA8;
 }
 .main-nav{
 	width: 100%;
@@ -322,7 +322,7 @@ h2.title{
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
-    color: #2ecc71;
+    color: #5D8AA8;
     background-color: transparent;
 }
 
@@ -338,7 +338,7 @@ h2.title{
 	padding-top: 25px;
 }
 .navbar-brand span{
-	color: #2ecc71;
+	color: #5D8AA8;
 
 }
 
@@ -399,7 +399,7 @@ h2.title{
 }
 .service-inner i{
 	font-size: 40px;
-	color: #2ecc71;
+	color: #5D8AA8;
 	float: left;
 }
 .service-box {
@@ -439,7 +439,7 @@ h2.title{
 }
 .progress-bar {
 	box-shadow: none;
-	background-color: #2ecc71;
+	background-color: #5D8AA8;
 	text-align: right;
 	font-weight: 700;
 	font-size: 18px;
@@ -489,7 +489,7 @@ h2.title{
 	margin:-3px 0px 12px;
 }
 .result,.year{
-	background: #2ecc71;
+	background: #5D8AA8;
 	color: #fff;
 	padding: 9px 12px;
 	display: inline-block;
@@ -521,10 +521,10 @@ h2.title{
     bottom: -25px;
 }
 .carousel-indicators .active {
-    background-color: #2ecc71;
+    background-color: #5D8AA8;
 }
 .carousel-indicators li {
-    border-color: #2ecc71;
+    border-color: #5D8AA8;
 }
 
 

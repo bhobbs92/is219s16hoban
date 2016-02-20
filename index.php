@@ -65,7 +65,7 @@
     					<span class="icon-bar"></span>
     				</button>
 				
-					<a href="#" class="navbar-brand"> <img src="images/logo.jpg" alt="">Fo<span>cal</span></a>
+					<a href="#" class="navbar-brand"> <img src="images/b.png" alt="">Brit<span>any</span></a>
     			</div>  <!-- navbar-header end -->
     			<!-- main nav  -->
 
