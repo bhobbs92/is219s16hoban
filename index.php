@@ -1,3 +1,5 @@
+<!-- This is a template from starterbootstrap.com -->
+
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -89,21 +91,21 @@
 				<div class="col-md-4 col-sm-4 wow fadeInDown" data-wow-delay=".2s">
 					<div class="overview-box">
 						<h3>Values</h3>
-						<p>Lorem ipsum dolor sit amet, ea doming until epicuri iudicabit nam, te usu virtute placerat. Purto brute disputando cu est.</p>
+						<p>Interity First, Service Before Self, Excellence in All We Do</p>
 					</div>
 				</div> <!-- col-md-4 end -->
 
 				<div class="col-md-4 col-sm-4 wow fadeInDown" data-wow-delay=".4s">
 					<div class="overview-box">
 						<h3>Goals</h3>
-						<p>Lorem ipsum dolor sit amet, ea doming until epicuri iudicabit nam, te usu virtute placerat. Purto brute disputando cu est.</p>
+						<p>My goals are to graduate college in the spring of 2017 and commission as an officer in the US Air Force.</p>
 					</div>
 				</div> <!-- col-md-4 end -->
 
 				<div class="col-md-4 col-sm-4 wow fadeInDown" data-wow-delay=".6s">
 					<div class="overview-box">
 						<h3>Hobbies</h3>
-						<p>Lorem ipsum dolor sit amet, ea doming until epicuri iudicabit nam, te usu virtute placerat. Purto brute disputando cu est.</p>
+						<p>In my free time I like to play softball with my team the SJ Devils, and go camping with my friends on the weekends in the summertime.</p>
 					</div>
 				</div> <!-- col-md-4 end -->
 			</div>
