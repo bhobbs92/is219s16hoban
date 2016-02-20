@@ -129,30 +129,18 @@
 								<i class="fa fa-globe"></i>
 								<div class="service-box">
 									<h3>web design</h3>
-									<p>Lorem ipsum dolor sit amet, ea doming epicuri iudicabit nam</p>
+									<p>I am interested in learning more about web design, since I enjoy it and would like to use it as a tool in my future career. </p>
 								</div>
-							</div> <!-- service -inner  -->
-							<div class="service-inner wow fadeInRight" data-wow-delay=".5s">
-								<i class="fa fa-users"></i>
-								<div class="service-box">
-									<h3>Online marketing</h3>
-									<p>Lorem ipsum dolor sit amet, ea doming epicuri iudicabit nam</p>
-								</div>
+					
 							</div>  <!-- service -inner  -->
 							<div class="service-inner wow fadeInRight" data-wow-delay=".8s">
 								<i class="fa fa-pencil"></i>
 								<div class="service-box">
 									<h3>Graphics design</h3>
-									<p>Lorem ipsum dolor sit amet, ea doming epicuri iudicabit nam</p>
+									<p>Along with web design I want to learn about graphic design so that I can make a top quality product.</p>
 								</div>
 							</div> <!-- service -inner  -->
-							<div class="service-inner wow fadeInRight" data-wow-delay="1.1s">
-								<i class="fa fa-globe"></i>
-								<div class="service-box">
-									<h3>Seo</h3>
-									<p>Lorem ipsum dolor sit amet, ea doming epicuri iudicabit nam</p>
-								</div>
-							</div>  <!-- service -inner  -->
+						
 						</div>
 					</div><!-- row end -->
 				</div>
@@ -171,10 +159,7 @@
 				</div>
 				<div class="col-md-6 col-sm-6 wow fadeInLeft">
 					<div class="skill-desc">
-						<p>Lorem ipsum dolor sit amet, ea doming epicuri iudicabit nam, te usu virtute placerat. Purto brute disputando cu est, eam dicam soluta ei. Vel dicam vivendo accusata ei, cum ne periculis molestiae pri. 
-						<br>
-						<br>
-						Lorem ipsum dolor sit amet, ea doming epicuri iudicabit nam, te usu virtute placerat. Purto brute disputando cu est.</p>
+						<p>My skills include a photoshop, illustrator, HTML/CSS, and PHP/MYSQL. </p>
 
 						<a href="#" class="btn btn-default featured">Contact me</a>
 					</div>
@@ -184,32 +169,32 @@
 					<div class="skill-box wow fadeInDown" data-wow-delay=".2s">
 						<label> photoshop</label>
 						<div class="progress">
-							<div class="progress-bar" role="progress-bar" aria-valuemin="0" aria-valuenow="60" aria-valuemax="100" style="width: 60%;" >
-								60%
+							<div class="progress-bar" role="progress-bar" aria-valuemin="0" aria-valuenow="65" aria-valuemax="100" style="width: 65%;" >
+								65%
 							</div>
 						</div>
 					</div>
 					<div class="skill-box wow fadeInDown" data-wow-delay=".4s">
 						<label> illustrator</label>
 						<div class="progress">
-							<div class="progress-bar" role="progress-bar" aria-valuemin="0" aria-valuenow="80" aria-valuemax="100" style="width: 80%;" >
-								80%
+							<div class="progress-bar" role="progress-bar" aria-valuemin="0" aria-valuenow="70" aria-valuemax="100" style="width: 70%;" >
+								70%
 							</div>
 						</div>
 					</div>
 					<div class="skill-box wow fadeInDown" data-wow-delay=".6s">
 						<label> html /css</label>
 						<div class="progress">
-							<div class="progress-bar" role="progress-bar" aria-valuemin="0" aria-valuenow="90" aria-valuemax="100" style="width: 90%;" >
-								90%
+							<div class="progress-bar" role="progress-bar" aria-valuemin="0" aria-valuenow="80" aria-valuemax="100" style="width: 80%;" >
+								80%
 							</div>
 						</div>
 					</div>
 					<div class="skill-box wow fadeInDown" data-wow-delay=".8s">
 						<label> php / mysql</label>
 						<div class="progress">
-							<div class="progress-bar" role="progress-bar" aria-valuemin="0" aria-valuenow="70" aria-valuemax="100" style="width: 70%;" >
-								70%
+							<div class="progress-bar" role="progress-bar" aria-valuemin="0" aria-valuenow="60" aria-valuemax="100" style="width: 60%;" >
+								60%
 							</div>
 						</div>
 					</div>
@@ -226,9 +211,9 @@
 			<div class="row">
 				<div class="col-md-12 text-center wow fadeInUp">
 					<h2 class="heading-title">Resume</h2>
-					<p>Lorem ipsum dolor sit amet, ea doming epicuri iudicabit nam, te usu virtute placerat. Purto brute disputando cu est, eam dicam soluta ei. Vel dicam vivendo accusata ei, cum ne periculis molestiae pri. </p>
+					<p>Click the button belown to download a copy of my resume and learn more. </p>
 
-					<a href="#" class="btn btn-default featured">Download Resume</a>
+					<a href="./Documents/BrittanyHoban%20resume.docx" class="btn btn-default featured">Download Resume</a>
 				</div>
 			</div>
 		</div>
@@ -243,7 +228,7 @@
 				<div class="clearfix"></div>
 				<div class="col-md-6 col-sm-6 wow fadeInLeft">
 					<div class="resume-inner">
-						<p>Lorem ipsum dolor sit amet, ea doming epicuri iudicabit nam, te usu virtute placerat. Purto brute disputando cu est, eam dicam soluta ei. Vel dicam vivendo accusata ei, cum ne periculis molestiae pri. 
+						<p> 
 						<br>
 						<br>
 						Lorem ipsum dolor sit amet, ea doming epicuri iudicabit nam, te usu virtute placerat. Purto brute disputando cu est.</p>
