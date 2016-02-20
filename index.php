@@ -75,7 +75,6 @@
     					<li><a href="#section-profile">About me </a></li>
     					<li><a href="#section-skill">Skills </a></li>
     					<li><a href="#section-resume">Resume </a></li>
-    					<li><a href="#section-portfolio">Portfolio </a></li>
     					<li><a href="#section-contact">Contact me </a></li>
     				</ul>
     			</div><!-- /.navbar-collapse -->
@@ -345,15 +344,15 @@
 			<div class="row">
 				<div class="col-md-6 col-sm-6 wow fadeInLeft">
 					<div class="contact-left">
-						<p>Lorem ipsum dolor sit amet, ea doming epicuri iudicabit nam, te usu virtute placerat. Purto brute disputando cu est, eam dicam soluta ei. Vel dicam vivendo accusata ei.</p>
+						<p>If you have any questions, comments or concerns feel free to contact me.</p>
 						<div class="location">
-							<p>122 33rd Street East</p>
-							<p>Saskatoon, SK</p>
-							<p>S7K 1R9</p>
+							<p>131 Summit St</p>
+							<p>Newark, NJ</p>
+							<p>07102</p>
 						</div>
 						<ul>
-							<li><span>Email :</span> <a>info@focal.com</a></li>
-							<li><span>Phone :</span> <a>1-306-222 </a></li>
+							<li><span>Email :</span> <a>brittanyhoban@yahoo.com</a></li>
+							<li><span>Phone :</span> <a>723-814-4722 </a></li>
 						</ul>
 					</div>
 				</div>
@@ -394,6 +393,7 @@
 			<div class="row">
 				<div class="col-md-12 text-center">
 					<h4>Copyright 2015 Focal - Built With Passion</h4>
+                  <h4>This template was downloaded from startbootstrap.com</h4>
 
 					<ul class="socail-link list-inline">
 						<li><a href="#"><i class="fa fa-twitter"></i></a></li>
