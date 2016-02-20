@@ -268,41 +268,64 @@
 
 				<div class="col-md-6 col-sm-6 wow fadeInLeft">
 					<div class="resume-inner">
-						<p>Lorem ipsum dolor sit amet, ea doming epicuri iudicabit nam, te usu virtute placerat. Purto brute disputando cu est, eam dicam soluta ei. Vel dicam vivendo accusata ei, cum ne periculis molestiae pri. 
-						<br>
-						<br>
-						Lorem ipsum dolor sit amet, ea doming epicuri iudicabit nam, te usu virtute placerat. Purto brute disputando cu est.</p>
+						<div class="resume-box wow fadeInDown" data-wow-delay=".2s">
+							<h3 class="resume-title">Stage Tech </h3>
+							<p class="resume-sub">Six Flags Great Adventure, Jackson NJ /  November 2015- January 2016</p>
+							<div class="year">2.5 Months</div>
+
+							<hr>
+
+							<p>I worked as a stage tech for Six Flags Holiday In the Park production of Jack Frost's Magical Christmas.</p>
+						</div>
+                      <div class="resume-box wow fadeInDown" data-wow-delay=".2s">
+							<h3 class="resume-title">Webmaster</h3>
+							<p class="resume-sub">NJIT AFROTC /  August 2014 - Present</p>
+							<div class="year">2.5 years</div>
+
+							<hr>
+
+							<p>In the fall of 2014 I was tasked with redesigning and maintaining the Air Force ROTC program's website.</p>
+						</div>
+                      <div class="resume-box wow fadeInDown" data-wow-delay=".2s">
+							<h3 class="resume-title">Seasonal Lifeguard Unit Supervisor </h3>
+							<p class="resume-sub">Six Flags Hurricane Harbor, Jackson NJ  /  May 2013 - May 2014</p>
+							<div class="year">1 years</div>
+
+							<hr>
+
+							<p>I was in charge of 15-25 lifeguards a day.</p>
+						</div>
 					</div>
 				</div>
 
 				<div class="col-md-6 col-sm-6">
 					<div class="resume-desc">
 						<div class="resume-box wow fadeInDown" data-wow-delay=".2s">
-							<h3 class="resume-title">Lead WEb Designer</h3>
-							<p class="resume-sub">ABC Company, Saskatoon  /  June 2011 - Present</p>
+							<h3 class="resume-title">Seasonal Fright Fest Supervisor </h3>
+							<p class="resume-sub">Six Flags Great Adventure, Jackson NJ  /  September 2015 - Present</p>
+							<div class="year">2.5 months</div>
+
+							<hr>
+
+							<p>I was in charge of the Ghouls and Characters during Fright Fest with approximately 20 ghouls per area.</p>
+						</div>
+						<div class="resume-box wow fadeInDown" data-wow-delay=".4s">
+							<h3 class="resume-title">Seasonal Lifeguard Area Supervisor/ Instructor </h3>
+							<p class="resume-sub">Six Flags Hurricane Harbor, Jackson NJ  /  Fall 2014 - Present</p>
+							<div class="year">2 years</div>
+
+							<hr>
+
+							<p>I teach lifeguard training classes and foster a learning environment for the lifeguards.</p>
+						</div>
+						<div class="resume-box last wow fadeInDown" data-wow-delay=".7s">
+							<h3 class="resume-title">Seasonal Lifeguard Area Supervisor </h3>
+							<p class="resume-sub">Six Flags Hurricane Harbor, Jackson NJ  /  May 2014- Present</p>
 							<div class="year">3 years</div>
 
 							<hr>
 
-							<p>Lorem ipsum dolor sit amet, ea doming epicuri iudicabit nam, te usu virtute placerat. Purto brute disputando cu est, eam dicam soluta ei. Vel dicam vivendo accusata ei.</p>
-						</div>
-						<div class="resume-box wow fadeInDown" data-wow-delay=".4s">
-							<h3 class="resume-title">Junior Designer</h3>
-							<p class="resume-sub">XYZ Company, Lethbridge  /  June 2008 - May 2009</p>
-							<div class="year">1 years</div>
-
-							<hr>
-
-							<p>Lorem ipsum dolor sit amet, ea doming epicuri iudicabit nam, te usu virtute placerat. Purto brute disputando cu est, eam dicam soluta ei. Vel dicam vivendo accusata ei.</p>
-						</div>
-						<div class="resume-box last wow fadeInDown" data-wow-delay=".7s">
-							<h3 class="resume-title">Web Developer</h3>
-							<p class="resume-sub">The Company, Lethbridge  /  June 2007 - May 2008</p>
-							<div class="year">1 years</div>
-
-							<hr>
-
-							<p>Lorem ipsum dolor sit amet, ea doming epicuri iudicabit nam, te usu virtute placerat. Purto brute disputando cu est, eam dicam soluta ei. Vel dicam vivendo accusata ei.</p>
+							<p>I supervise 2-3 Unit Supervisors and supervise approximately 60 lifeguards a day.</p>
 						</div>
 					</div>
 				</div>
