@@ -159,7 +159,7 @@
 				</div>
 				<div class="col-md-6 col-sm-6 wow fadeInLeft">
 					<div class="skill-desc">
-						<p>My skills include a photoshop, illustrator, HTML/CSS, and PHP/MYSQL. </p>
+						<p>My skills include photoshop, illustrator, HTML/CSS, and PHP/MYSQL. </p>
 
 						<a href="#" class="btn btn-default featured">Contact me</a>
 					</div>
@@ -213,7 +213,7 @@
 					<h2 class="heading-title">Resume</h2>
 					<p>Click the button belown to download a copy of my resume and learn more. </p>
 
-					<a href="./Documents/BrittanyHoban%20resume.docx" class="btn btn-default featured">Download Resume</a>
+					<a href="/Documents/BrittanyHoban%20resume.docx" class="btn btn-default featured">Download Resume</a>
 				</div>
 			</div>
 		</div>
@@ -228,33 +228,31 @@
 				<div class="clearfix"></div>
 				<div class="col-md-6 col-sm-6 wow fadeInLeft">
 					<div class="resume-inner">
-						<p> 
-						<br>
-						<br>
-						Lorem ipsum dolor sit amet, ea doming epicuri iudicabit nam, te usu virtute placerat. Purto brute disputando cu est.</p>
+						<p> I am currently a senior studying Information Technology with a concentration in network security. Over the course of my college career I have made dean's list for more than 5 consecutive semesters.
+						
 					</div>
 				</div>
 
 				<div class="col-md-6 col-sm-6">
 					<div class="resume-desc">
 						<div class="resume-box wow fadeInDown" data-wow-delay=".2s">
-							<h3 class="resume-title">Graphics design diploma</h3>
-							<p class="resume-sub">Reeves College  /  June 2008 - May 2010</p>
-							<div class="result">4.0 Gpa</div>
+							<h3 class="resume-title">Chestnut Hill College </h3>
+							<p class="resume-sub">Freshman year  /  August 2011- May 2012</p>
+							<div class="result">3.13 Gpa</div>
 
 							<hr>
 
-							<p>Lorem ipsum dolor sit amet, ea doming epicuri iudicabit nam, te usu virtute placerat. Purto brute disputando cu est, eam dicam soluta ei. Vel dicam vivendo accusata ei.</p>
+                              <p>While attending Chestnut Hill College I took classes in Criminology, Psychology, Biology, and Chemistry.</p>
 						</div>
 
 						<div class="resume-box wow fadeInDown" data-wow-delay=".6s">
-							<h3 class="resume-title">CIT Diploma</h3>
-							<p class="resume-sub">Lethbridge College  /  June 2006 - May 2008</p>
-							<div class="result">4.0 Gpa</div>
+							<h3 class="resume-title">NJIT</h3>
+							<p class="resume-sub">January 2013 - Present</p>
+							<div class="result">3.6 Gpa</div>
 
 							<hr>
 
-							<p>Lorem ipsum dolor sit amet, ea doming epicuri iudicabit nam, te usu virtute placerat. Purto brute disputando cu est, eam dicam soluta ei. Vel dicam vivendo accusata ei.</p>
+							<p>While attending NJIT I have taken classes in Programming, Operating Systems, Ethical Hacking, Web Design, and Networking</p>
 						</div>
 					</div>
 				</div>
