@@ -75,7 +75,6 @@
     					<li><a href="#section-profile">About me </a></li>
     					<li><a href="#section-skill">Skills </a></li>
     					<li><a href="#section-resume">Resume </a></li>
-    					<li><a href="#section-testimonial">Testimonials </a></li>
     					<li><a href="#section-portfolio">Portfolio </a></li>
     					<li><a href="#section-contact">Contact me </a></li>
     				</ul>
@@ -122,7 +121,7 @@
 				<div class="col-md-7 col-sm-12 pull-right">
 					<div class="profile-desc wow fadeInRight">
 						<h2 class="heading-title">about me</h2>
-						<p>Lorem ipsum dolor sit amet, ea doming epicuri iudicabit nam, te usu virtute placerat. Purto brute disputando cu est, eam dicam soluta ei. Vel dicam vivendo accusata ei, cum ne periculis molestiae pri.<br> <br>Lorem ipsum dolor sit amet, ea doming epicuri iudicabit nam, te usu virtute placerat. Purto brute disputando cu est, eam dicam soluta ei.</p>
+						<p>My name is Brittany Hoban. I am a 23 year old Information Technology Major in my Senior year at the New Jersey Institue of Technology in Newark, New Jersey. I am also an active member of the school's AFROTC program. I transferred into NJIT in the Spring semester of my sophomore year in 2013, after attending Chestnut Hill College for my freshmen year. I decided to transfer to NJIT because it offered a better IT program and the opportunity to potentially join the Air Force via the ROTC program which has always been a goal and dream of mine</p>
 					</div>
 					<div class="row">
 						<div class="service-wrapper">
@@ -328,137 +327,6 @@
 		</div>  <!-- container end -->
 	</section>
 	<!-- Resume end -->
-
-	<!-- section testimonial start -->
-
-	<section id="section-testimonial" class="section-padding">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12">
-					<div class="carousel slide text-center" id="testimonial-carousel">
-						 <ol class="carousel-indicators">
-						    <li data-target="#testimonial-carousel" data-slide-to="0" class="active"></li>
-						    <li data-target="#testimonial-carousel" data-slide-to="1"></li>
-						    <li data-target="#testimonial-carousel" data-slide-to="2"></li>
-						  </ol>
-						<div class="carousel-inner">
-							<div class="item active">
-								<p>“ Lorem ipsum dolor sit amet, ea doming epicuri iudicabit nam, te usu virtute placerat. Purto brute disputando cu est, eam dicam soluta ei. Vel dicam vivendo accusata ei, cum ne periculis molestiae pri. Lorem ipsum dolor sit amet, ea doming epicuri iudicabit nam. ”</p>
-
-								<h4 class="client-name">John Stone</h4>
-							</div>
-							<div class="item">
-								<p>“ Lorem ipsum dolor sit amet, ea doming epicuri iudicabit nam, te usu virtute placerat. Purto brute disputando cu est, eam dicam soluta ei. Vel dicam vivendo accusata ei, cum ne periculis molestiae pri. Lorem ipsum dolor sit amet, ea doming epicuri iudicabit nam. ”</p>
-
-								<h4 class="client-name">John Stone</h4>
-							</div>
-							<div class="item ">
-								<p>“ Lorem ipsum dolor sit amet, ea doming epicuri iudicabit nam, te usu virtute placerat. Purto brute disputando cu est, eam dicam soluta ei. Vel dicam vivendo accusata ei, cum ne periculis molestiae pri. Lorem ipsum dolor sit amet, ea doming epicuri iudicabit nam. ”</p>
-
-								<h4 class="client-name">John Stone</h4>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- section testimonial end -->
-
-	<!-- section portfolio start -->
-
-	<section id="section-portfolio" class="section-padding">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12 text-center wow fadeInUp">
-					<div class="section-heading">
-						<h2 class="heading-title">portfolio</h2>
-						<p>Lorem ipsum dolor sit amet, ea doming epicuri iudicabit nam, te usu virtute placerat. Purto brute disputando cu est, eam dicam soluta ei. Vel dicam vivendo accusata ei, cum ne periculis molestiae pri. </p>
-					</div>
-				</div>
-			</div>
-
-			<div class="row">
-				<div class="col-md-4 col-sm-4">
-					<div class="portfolio-box">
-						<img src="images/portfolio/port1.jpg" alt="" class="img-responsive">
-						<div class="image-overlay text-center">
-							<a href="images/portfolio/port1.jpg" data-rel="prettyPhoto"><i class="fa fa-search"></i></a>
-						</div>
-					</div>
-				</div> <!-- col-md-4 end -->
-				<div class="col-md-4 col-sm-4">
-					<div class="portfolio-box">
-						<img src="images/portfolio/port2.jpg" alt="" class="img-responsive">
-						<div class="image-overlay text-center">
-							<a href="images/portfolio/port2.jpg" data-rel="prettyPhoto"><i class="fa fa-search"></i></a>
-						</div>
-					</div>
-				</div> <!-- col-md-4 end -->
-				<div class="col-md-4 col-sm-4">
-					<div class="portfolio-box">
-						<img src="images/portfolio/port3.jpg" alt="" class="img-responsive">
-						<div class="image-overlay text-center">
-							<a href="images/portfolio/port3.jpg" data-rel="prettyPhoto"><i class="fa fa-search"></i></a>
-						</div>
-					</div>
-				</div> <!-- col-md-4 end 3step-->
-				<div class="clearfix"></div>
-				<div class="col-md-4 col-sm-4">
-					<div class="portfolio-box">
-						<img src="images/portfolio/port4.jpg" alt="" class="img-responsive">
-						<div class="image-overlay text-center">
-							<a href="images/portfolio/port4.jpg" data-rel="prettyPhoto"><i class="fa fa-search"></i></a>
-						</div>
-					</div>
-				</div> <!-- col-md-4 end -->
-				<div class="col-md-4 col-sm-4">
-					<div class="portfolio-box">
-						<img src="images/portfolio/port1.jpg" alt="" class="img-responsive">
-						<div class="image-overlay text-center">
-							<a href="images/portfolio/port1.jpg" data-rel="prettyPhoto"><i class="fa fa-search"></i></a>
-						</div>
-					</div>
-				</div> <!-- col-md-4 end -->
-				<div class="col-md-4 col-sm-4">
-					<div class="portfolio-box">
-						<img src="images/portfolio/port2.jpg" alt="" class="img-responsive">
-						<div class="image-overlay text-center">
-							<a href="images/portfolio/port2.jpg" data-rel="prettyPhoto"><i class="fa fa-search"></i></a>
-						</div>
-					</div>
-				</div> <!-- col-md-4 end 6 step -->
-				<div class="clearfix"></div>
-
-				<div class="col-md-4 col-sm-4">
-					<div class="portfolio-box">
-						<img src="images/portfolio/port3.jpg" alt="" class="img-responsive">
-						<div class="image-overlay text-center">
-							<a href="images/portfolio/port3.jpg" data-rel="prettyPhoto"><i class="fa fa-search"></i></a>
-						</div>
-					</div>
-				</div> <!-- col-md-4 end -->
-				<div class="col-md-4 col-sm-4">
-					<div class="portfolio-box">
-						<img src="images/portfolio/port4.jpg" alt="" class="img-responsive">
-						<div class="image-overlay text-center">
-							<a href="images/portfolio/port4.jpg" data-rel="prettyPhoto"><i class="fa fa-search"></i></a>
-						</div>
-					</div>
-				</div> <!-- col-md-4 end -->
-				<div class="col-md-4 col-sm-4">
-					<div class="portfolio-box">
-						<img src="images/portfolio/port1.jpg" alt="" class="img-responsive">
-						<div class="image-overlay text-center">
-							<a href="images/portfolio/port1.jpg" data-rel="prettyPhoto"><i class="fa fa-search"></i></a>
-						</div>
-					</div>
-				</div> <!-- col-md-4 end -->
-			</div>
-		</div>
-	</section>
-	<!-- section portfolio endt -->
-
 	<!-- section contact start -->
 
 	<section id="section-contact" class="section-padding">
