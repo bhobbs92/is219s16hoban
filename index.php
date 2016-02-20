@@ -393,7 +393,7 @@
 			<div class="row">
 				<div class="col-md-12 text-center">
 					<h4>Copyright 2015 Focal - Built With Passion</h4>
-                  <h4>This template was downloaded from startbootstrap.com</h4>
+                  <h4>This template was downloaded from shapebootstrap.net</h4>
 
 					<ul class="socail-link list-inline">
 						<li><a href="#"><i class="fa fa-twitter"></i></a></li>
